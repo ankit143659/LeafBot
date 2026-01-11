@@ -1,5 +1,5 @@
 print("hello world")
 print("hello world")
-print("le ygtyugyugyugyu diya")
+print("le kar diya")
 
 import os
