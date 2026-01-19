@@ -1,0 +1,7 @@
+{
+  "name": "Emerald Botanical Intelligence",
+  "description": "Professional plant classification, disease diagnosis, and seasonal automation system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
